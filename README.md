@@ -2,7 +2,7 @@
 
 A modern Discord music bot control panel with moderation features, built with React and TypeScript.
 
-![Mission Control Dashboard]([https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80](https://cdn.discordapp.com/attachments/1327737466890752211/1327738966098837505/header.png?ex=678428c5&is=6782d745&hm=c985e53e9f3c9559d27b5a2030d018a88ac073aee262af04d84836e6f4d539ee&))
+![Mission Control Dashboard](https://github.com/captmsn/mission-control/blob/main/header.png?raw=true)
 
 ## Features
 
