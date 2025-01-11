@@ -45,7 +45,7 @@ export const About = () => {
 
         <div className="mt-16 text-center">
           <a
-            href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME"
+            href="https://github.com/captmsn/mission-control"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center rounded-full bg-gradient-to-r from-pink-500 to-purple-600 px-8 py-3 font-semibold text-white transition-all hover:scale-105"
